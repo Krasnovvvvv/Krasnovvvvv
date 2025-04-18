@@ -2,8 +2,8 @@
 ## 🧑‍🎓 About Me
 I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **game development and game design**.
 ## 💻 Technologies & Skills
-- Actively learning **C++** (intermediate level)
-- Exploring **JavaScript, HTML, and CSS** (beginner level)
+- Actively learning **C++**,**C#** (intermediate level)
+- Exploring **JavaScript, HTML, CSS, VB.NET** (beginner level)
 - Working with **Unreal Engine** for game development
 ## 🔥 Current Project
 I'm developing a software tool for **Least Squares Method (LSM) calculations** used in physics lab work. The program aims to:
