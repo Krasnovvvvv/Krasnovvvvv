@@ -27,5 +27,6 @@ I am developing a Telegram bot that serves as a digital library, allowing users 
 - Interested in **AI technologies** and the development of **intelligent tracking and control systems**
 ## 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smokex_official) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smokexbeatzz@gmail.com)
+
 Feel free to connect with me! 🚀
 
