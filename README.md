@@ -7,9 +7,7 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
 
-## 🚧 Current Project
-
-**Project Name:** Telegram e-Library Bot
+## 🚧 Current Project: Telegram e-Library Bot
 
 **Description:**  
 I am developing a Telegram bot that serves as a digital library, allowing users to search, browse, and access a collection of books directly through Telegram. The bot is built using **C++** with the `tgbot-cpp` library for Telegram API integration and utilizes **SQLite** for efficient storage and retrieval of book data.
