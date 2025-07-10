@@ -14,7 +14,8 @@ I'm developing a software tool for **Least Squares Method (LSM) calculations** u
 - Passionate about **game development**, particularly in **simulation games**
 - Interested in **AI technologies** and the development of **intelligent tracking and control systems**
 ## 📬 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smokex_official)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smokex_official) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smokexbeatzz@gmail.com)
+
 
 Feel free to connect with me! 🚀
 
