@@ -1,6 +1,6 @@
 # Hi there, I'm Fyodor! 👋
 ## 🧑‍🎓 About Me
-I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **game development and game design**.
+I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
 ## 💻 Technologies & Skills
 - Actively learning **C++**,**C#** (intermediate level)
 - Exploring **JavaScript, HTML, CSS, VB.NET** (beginner level)
@@ -14,6 +14,7 @@ I'm developing a software tool for **Least Squares Method (LSM) calculations** u
 - Passionate about **game development**, particularly in **simulation games**
 - Interested in **AI technologies** and the development of **intelligent tracking and control systems**
 ## 📬 Contact
-- **Telegram:** [@smokex_official](https://t.me/smokex_official)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smokex_official)
+
 Feel free to connect with me! 🚀
 
