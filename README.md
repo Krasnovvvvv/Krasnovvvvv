@@ -9,6 +9,8 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 ## 🚧 Current Project: Telegram e-Library Bot
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github&style=flat-square)](https://github.com/Krasnovvvvv/telegram-e-library-bot)
+
 **Description:**  
 I am developing a Telegram bot that serves as a digital library, allowing users to search, browse, and access a collection of books directly through Telegram. The bot is built using **C++** with the `tgbot-cpp` library for Telegram API integration and utilizes **SQLite** for efficient storage and retrieval of book data.
 
