@@ -3,6 +3,9 @@
 I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
 ## 💻 Technologies & Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,sqlite,mysql,git)](https://skillicons.dev)
+## 🏆 Codewars
+[![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
+
 ## 🔥 Current Project
 I'm developing a software tool for **Least Squares Method (LSM) calculations** used in physics lab work. The program aims to:
 - Interpret computational results into a format convenient for report documentation
