@@ -1,4 +1,3 @@
-# Hi there, I'm Fyodor! 👋
 ## 🧑‍🎓 About Me
 I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
 ## 💻 Technologies & Skills
@@ -7,7 +6,7 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
 
-## 🚧 Current Project: Telegram e-Library Bot
+## 🚧 Current Project: Telegram e-Library Bot *(done)*
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/telegram-e-library-bot)
 
