@@ -6,20 +6,20 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
 
-## 🚧 Current Project: Telegram e-Library Bot *(done)*
+## 🚧 Current Project: BSU Schedule Console
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/telegram-e-library-bot)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/BSU-schedule-console)
 
 **Description:**  
-I am developing a Telegram bot that serves as a digital library, allowing users to search, browse, and access a collection of books directly through Telegram. The bot is built using **C++** with the `tgbot-cpp` library for Telegram API integration and utilizes **SQLite** for efficient storage and retrieval of book data.
+I am developing a console client for easy interaction with the schedule at my university. The project is implemented in **C++** using libraries such as `xlsxio` for interacting with excel spreadsheets, `CURL` for network requests to my university's website, `CLI11` for building a console client, and `fmt` for text formatting.
 
 **Key Features:**
-- Search and browse books by title, author, or category
-- Easy access to digital content within Telegram
-- Fast and lightweight backend using C++ and SQLite
+- Сonvenient schedule view
+- Flexible functionality
+- An interesting set of commands
 
 **Technologies:**  
-`C++`, `tgbot-cpp`, `SQLite`
+`C++`, `xlsxio`, `CLI11`, `CURL`, `fmt`
 
 ## 🎯 Interests & Goals
 - Passionate about **studying algorithms, developing telegram bots and other useful software**
