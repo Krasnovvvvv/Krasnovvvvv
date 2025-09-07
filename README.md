@@ -11,6 +11,7 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/BSU-schedule-console)
 
 **Description:**  
+
 I am developing a console client for easy interaction with the schedule at my university. The project is implemented in **C++** using libraries such as `xlsxio` for interacting with excel spreadsheets, `CURL` for network requests to my university's website, `CLI11` for building a console client, and `fmt` for text formatting.
 
 **Key Features:**
