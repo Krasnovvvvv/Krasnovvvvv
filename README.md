@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Krasnovvvvv&style=for-the-badge&abbreviated=true)
-
 ## 🧑‍🎓 About Me
 I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
 ## 💻 Technologies & Skills
@@ -7,6 +5,8 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 ## <img src="https://cdn.simpleicons.org/codewars/B1361E" width="28" alt="Codewars Logo" />  Codewars
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
+
+![](https://komarev.com/ghpvc/?username=Krasnovvvvv&style=for-the-badge&abbreviated=true)
 
 ## 🚧 Current Project: BSU Schedule Console
 
