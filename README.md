@@ -6,8 +6,6 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
 
-![](https://komarev.com/ghpvc/?username=Krasnovvvvv&style=for-the-badge&abbreviated=true)
-
 ## 🚧 Current Project: BSU Schedule Console
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/BSU-schedule-console)
