@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Krasnovvvvv&style=for-the-badge&abbreviated=true)
+
 ## 🧑‍🎓 About Me
 I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
 ## 💻 Technologies & Skills
@@ -29,6 +31,3 @@ I am developing a console client for easy interaction with the schedule at my un
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smokex_official) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smokexbeatzz@gmail.com)
 
 Feel free to connect with me! 🚀
-
-![](https://komarev.com/ghpvc/?username=Krasnovvvvv&style=for-the-badge)
-
