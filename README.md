@@ -29,4 +29,5 @@ I am developing a console client for easy interaction with the schedule at my un
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smokex_official) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smokexbeatzz@gmail.com)
 
 Feel free to connect with me! 🚀
+![](https://komarev.com/ghpvc/?username=Krasnovvvvv&style=flat-square)
 
