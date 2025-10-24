@@ -6,21 +6,28 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
 
-## 🚧 Current Project: BSU Schedule Console
+## 🚀 Current Project: Share My Clipboard
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/BSU-schedule-console)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-222222?logo=github&logoColor=white&style=flat-square)](https://github.com/Krasnovvvvv/share-my-clipboard)
+[![Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
+[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go)](https://go.dev/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
 **Description:**  
 
-I am developing a console client for easy interaction with the schedule at my university. The project is implemented in **C++** using libraries such as `xlsxio` for interacting with excel spreadsheets, `CURL` for network requests to my university's website, `CLI11` for building a console client, and `fmt` for text formatting.
+A modern P2P clipboard and file-sharing tool for Windows. The project allows you to securely and instantly share text, images, and files between devices over a local network, with native Windows shell integration and smooth tray UX. Everything is written in pure Go using Fyne for the GUI and advanced Windows API features for shell and IPC.
 
 **Key Features:**
-- Сonvenient schedule view
-- Flexible functionality
-- An interesting set of commands
+- Instant clipboard and file sync between Windows devices
+- Win + right-click integration (“Send to Connected Devices”)
+- P2P auto-discovery (works in LAN, no cloud/server needed)
+- Transfers text, images, and files (with chunked/large file support)
+- Windows-native icons, notifications, tray operation
+- Minimal GUI, no console window, background mode
+- Open-source, digitally signed executables, fast & reliable
 
 **Technologies:**  
-`C++`, `xlsxio`, `CLI11`, `CURL`, `fmt`
+`Go`, `Fyne`, `golang.design/x/clipboard`, `golang.org/x/sys/windows`, `net`, `Windows Shell`, `P2P`, `GitHub Actions`
 
 ## 🎯 Interests & Goals
 - Passionate about **studying algorithms, developing telegram bots and other useful software**
