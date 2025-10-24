@@ -1,7 +1,7 @@
 ## 🧑‍🎓 About Me
 I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
 ## 💻 Technologies & Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,sqlite,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,go,sqlite,mysql,git)](https://skillicons.dev)
 ## <img src="https://cdn.simpleicons.org/codewars/B1361E" width="28" alt="Codewars Logo" />  Codewars
 
 [![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Krasnovvvvv&theme=dark)](https://www.codewars.com/users/Krasnovvvvv)
