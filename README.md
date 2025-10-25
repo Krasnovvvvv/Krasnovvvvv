@@ -1,5 +1,5 @@
 ## 🧑‍🎓 About Me
-I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**.
+I'm a student at Belarusian State University, currently studying **Computer Physics** at the Faculty of Physics. My main interests lie in **software development for education and business**, as well as **studying new technologies and libraries**
 ## 💻 Technologies & Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,go,sqlite,mysql,git)](https://skillicons.dev)
 ## <img src="https://cdn.simpleicons.org/codewars/B1361E" width="28" alt="Codewars Logo" />  Codewars
@@ -15,7 +15,7 @@ I'm a student at Belarusian State University, currently studying **Computer Phys
 
 **Description:**  
 
-A modern P2P clipboard and file-sharing tool for Windows. The project allows you to securely and instantly share text, images, and files between devices over a local network, with native Windows shell integration and smooth tray UX. Everything is written in pure Go using Fyne for the GUI and advanced Windows API features for shell and IPC.
+A modern P2P clipboard and file-sharing tool for Windows. The project allows you to securely and instantly share text, images, and files between devices over a local network, with native Windows shell integration and smooth tray UX. Everything is written in pure Go using Fyne for the GUI and advanced Windows API features for shell and IPC
 
 **Key Features:**
 - Instant clipboard and file sync between Windows devices
